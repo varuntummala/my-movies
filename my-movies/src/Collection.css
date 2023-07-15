@@ -1,6 +1,8 @@
 .collection {
     border: solid 1px black;
     border-radius: 1em;
+    border: 5px solid;
+    alignItems: center;
     cursor: pointer;
     transition: background-color 0.5s ease-in-out;
     background-color: aqua;
